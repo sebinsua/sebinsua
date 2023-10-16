@@ -1,4 +1,4 @@
-### Seb Insua
+# Seb Insua
 
 Hi there, I'm Seb Insua, a software engineer and freelancer working on end-to-end product engineering from the user interface to the API and algorithm design.
 
