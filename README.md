@@ -1,20 +1,23 @@
-# Seb Insua
+# seb insua
 
-Hi there, I'm Seb Insua, a software engineer and freelancer working on end-to-end product engineering from the user interface to the API and algorithm design.
+software engineer working end-to-end—from the bite to the bit. i start at the problem and dig through the layers: interface, behavior, protocol, algorithm.
 
-I [write technical articles](https://sebinsua.com), post [programming ideas and experiments on my Gist](https://gist.github.com/sebinsua) and occasionally make open-source software. I'm always interested in new projects, so [feel free to drop me a line](mailto:me@sebinsua.com).
+i [write technical posts](https://sebinsua.com), publish [experiments on gist](https://gist.github.com/sebinsua), and sometimes ship open-source code. if you're working on something hard, [drop me a line](mailto:me@sebinsua.com).
 
-## Selected posts
+## selected writing
 
-* [_"Is dismissing the algorithmic tech interview a memetic hazard?"_](https://sebinsua.com/algorithmic-bathwater)
-  * This contains a decision tree to help navigate what algorithm to apply to different kinds of problems.
-* [_"Bridging the gap between neural networks and functions"_](https://sebinsua.com/bridging-the-gap)
-  * This contains a detailed breakdown of the mathematics and code involved in backpropagation.
-* [_"Use notation to unmask relationships when problem solving"_](https://sebinsua.com/use-notation-to-unmask-relationships)
-  * This shows how formulating problems using equations can sometimes help you towards a more optimal solution.
+* [_"is dismissing the algorithmic tech interview a memetic hazard?"_](https://sebinsua.com/algorithmic-bathwater)  
+  a decision tree for choosing algorithms
 
-## Get in touch
+* [_"bridging the gap between neural networks and functions"_](https://sebinsua.com/bridging-the-gap)  
+  a breakdown of the mathematics behind backpropagation
 
-* Blog: [sebinsua.com](https://sebinsua.com)
-* Twitter: [@sebinsua](https://twitter.com/sebinsua)
-* Email: [me@sebinsua.com](mailto:me@sebinsua.com)
+* [_"use notation to unmask relationships when problem solving"_](https://sebinsua.com/use-notation-to-unmask-relationships)  
+  how algebra exposes structure and leads to better solutions
+
+## elsewhere
+
+* blog: [sebinsua.com](https://sebinsua.com)  
+* code: [gist.github.com/sebinsua](https://gist.github.com/sebinsua)  
+* twitter: [@sebinsua](https://twitter.com/sebinsua)  
+* email: [me@sebinsua.com](mailto:me@sebinsua.com)
